@@ -14,7 +14,3 @@ O projeto faz parte dos meus estudos fundamentais de desenvolvimento web, focand
 * Campo de entrada para **Senha** (com máscara de caracteres).
 * Botão de envio para submissão dos dados.
 
-## 📂 Como visualizar o projeto
-1. Clone este repositório:
-   ```bash
-   git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
